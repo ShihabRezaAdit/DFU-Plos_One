@@ -3,7 +3,7 @@
 This project focuses on leveraging machine learning and deep learning for **Diabetic Foot Ulcer (DFU)** detection. Our novel approach, **DFU_DIALNet**, achieves an impressive **accuracy of 99.33%**. To ensure transparency and reliability, model decisions are interpreted using **LIME** and **Grad-CAM**.
 
 **Authors**:  
-Monirul Islam Mahmud,Md Shihab Reza, Mohammad Olid Ali Akash, Farhana Elias, Nova Ahmed
+Monirul Islam Mahmud, Md Shihab Reza, Mohammad Olid Ali Akash, Farhana Elias, Nova Ahmed.
 
 ---
 
