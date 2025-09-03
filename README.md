@@ -66,9 +66,14 @@ Try the app here: [DFU Prediction App](https://footulcer-bd.onrender.com)
 If you use **DFU_DIALNet** in your research, please cite our work using the following BibTeX:
 
 ```bibtex
-@unpublished{DFUDIALNet2025,
-  title     = {DFU_DIALNet: Towards Reliable and Trustworthy Diabetic Foot Ulcer Detection with Synergistic Confluence of Grad-CAM and LIME},
-  author    = {Monirul Islam Mahmud, Md Shihab Reza, Mohammad Olid Ali Akash, Farhana Elias, Nova Ahmed},
+@article{mahmud2025dfu,
+  author    = {Monirul Islam Mahmud and Md Shihab Reza and Mohammad Olid Ali Akash and Farhana Elias and Nova Ahmed},
+  title     = {{DFU\_DIALNet: Towards reliable and trustworthy diabetic foot ulcer detection with synergistic confluence of Grad-CAM and LIME}},
+  journal   = {PLOS ONE},
+  volume    = {20},
+  number    = {9},
+  pages     = {e0330669},
   year      = {2025},
-  note      = {Accepted manuscript; to appear in PLOS ONE}
+  doi       = {10.1371/journal.pone.0330669},
+  url       = {https://doi.org/10.1371/journal.pone.0330669}
 }
